@@ -2,7 +2,7 @@ body {
   text-align: center;
   /* background-color: #283149; */
   background-image: url("back.jpg");
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: cover;
 }
 
@@ -83,10 +83,11 @@ footer {
   background-color: white;
 }
 
-h color: #DBEDF3;
-font-family: "Arvo",
-cursive;
-text-shadow: 3px 0 #DA0463;
+h2 {
+  color: #DBEDF3;
+  font-family: "Arvo",
+    cursive;
+  text-shadow: 3px 0 #DA0463;
 }
 
 h3 {
